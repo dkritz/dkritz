@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 Analyzing the healthcare provider market
-💬 Ask me about analytics and financial tools for hospitals and clinics
+- 🔭 Analyzing the healthcare provider market
+- 💬 Ask me about analytics and financial tools for hospitals and clinics
 <!--
 **dkritz/dkritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
